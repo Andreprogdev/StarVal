@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "metrix-wh.database.windows.net",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "Stat Vall",
+            "database": "XXXFREMF_BACKUP",
+            "username": "fdebierne",
+            "password": "ggyQHJODSFH%%!GJJKS"
+        }
+    ]
+}
